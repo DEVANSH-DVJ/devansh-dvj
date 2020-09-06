@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=devansh-dvj&count_private=true&show_icons=true&theme=dark&include_all_commits=true">
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=devansh-dvj&count_private=true&show_icons=true&theme=dark">
 </p>
 
 <p align="center">

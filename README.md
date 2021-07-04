@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&hide=jupyter%20notebook,tex">
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c">
 </p>
 
 

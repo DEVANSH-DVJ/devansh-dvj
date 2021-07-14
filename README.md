@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=devansh-dvj&theme=dracula">
+</p>
+
+<p align="center">
   <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c">
 </p>
 

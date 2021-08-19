@@ -1,4 +1,4 @@
-<p align="center"> Hi, I am Devansh Jain. <br> UG Sophomore studying at IIT Bombay. <br> Major: CSE, Minor: Statistics </p>
+<p align="center"> Hi, I am Devansh Jain. <br> Third year Undergraduate studying at IIT Bombay. <br> Major: Computer Science and Engineering <br> Minor: Applied Statistics and Informatics </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devansh-dvj&style=plastic&color=blueviolet" alt=profile_views/>

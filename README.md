@@ -1,7 +1,7 @@
 <p align="center"> Hi, I am Devansh Jain. <br> Third year Undergraduate studying at IIT Bombay. <br> Major: Computer Science and Engineering <br> Minor: Applied Statistics and Informatics </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devansh-dvj&style=plastic&color=blueviolet" alt=profile_views/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=devansh-dvj&style=plastic&color=blueviolet"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c,jupyter%20notebook,scss">
+  <img alt="GitHub Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c,jupyter%20notebook,scss">
 </p>
 
 <p align="center">

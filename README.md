@@ -15,3 +15,7 @@
 <p align="center">
   <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c,jupyter%20notebook,scss">
 </p>
+
+<p align="center">
+  <img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devansh-dvj&theme=dracula">
+</p>

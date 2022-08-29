@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devansh-dvj&theme=dracula">
+  <img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devansh-dvj&theme=dracula" width="80%">
 </p>

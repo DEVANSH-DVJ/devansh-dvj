@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=devansh-dvj&count_private=true&show_icons=true&theme=dracula">
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=devansh-dvj&count_private=true&show_icons=true&theme=dracula&include_all_commits=true">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dark&langs_count=10&hide=html,objective-c,jupyter%20notebook,scss">
+  <img alt="GitHub Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-dvj&layout=compact&theme=dracula&langs_count=10&hide=html,objective-c,jupyter%20notebook,scss">
 </p>
 
 <p align="center">

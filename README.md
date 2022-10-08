@@ -17,5 +17,5 @@
 </p>
 
 <p align="center">
-  <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-dvj&theme=dracula" width="80%">
+  <img alt="Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=devansh-dvj&theme=dracula&area=true" width=80%>
 </p>

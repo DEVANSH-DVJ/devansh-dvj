@@ -1,4 +1,4 @@
-<p align="center"> Hi, I am Devansh Jain. <br> Fourth year Undergraduate studying at IIT Bombay. <br> Major: Computer Science and Engineering <br> Minor: Applied Statistics and Informatics </p>
+<p align="center"> Hi, I am Devansh Jain. <br> CS Ph.D. student at UIUC </p>
 
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=devansh-dvj&style=plastic&color=blueviolet"/>
